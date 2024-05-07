@@ -1,2 +1,2 @@
 # Connect-Four-With-AI
-This project was part of a Problem Set for the CS111 course at Boston University. It involved creating different classes using Object Oriented Programming to create the different aspects of the Connect Four Game, including variations of AI Players. 
+Object Oriented Programming was taken advantage of to create classes for aspects such as the Board, and the Players, both human and AI. It utilized a 'look-ahead' method that would temporarily place pieces to rank the moves that the AI should make next to secure a win. The most effective lookahead number tended to be 5 or 6, but when it utilized a lookahead of 7 or higher it started to respond rather slower. 
